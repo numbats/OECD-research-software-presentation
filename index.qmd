@@ -1,0 +1,271 @@
+---
+title: "Institutionalising Research Software Recognition"
+subtitle: "Transferable Policy Design from Monash Business School"
+author: "Dianne Cook, Rob Hyndman, Tom Honeyman"
+date: "2026-03-06"
+institute: "Department of Econometrics and Business Statistics"
+footer: "[https://numbat.github.io/OECD-research-software-presentation](https://numbat.github.io/OECD-research-software-presentation)"
+title-slide-attributes: 
+  data-background-image: "images/bg.png"
+  data-background-size: 100%
+format:
+  revealjs:
+    multiplex: false
+    slide-number: c/t
+    slide-tone: false
+    theme: "assets/monash.scss"
+    width: 1600
+    height: 900
+    margin: 0.05
+---
+
+## Structural Context
+
+In *computationally intensive disciplines*, software frequently constitutes the operational form of research methods.
+
+Despite this:
+
+- Academic promotion systems remain publication-centric
+- Software contributions are often evaluated informally or not at all
+
+This case examines a faculty-level intervention designed to *align incentive structures with contemporary research practice*.
+
+## The Recognition Gap
+
+Despite clear research value:
+
+- Software rarely counted formally in promotion
+- Often assessed informally or case-by-case
+- No consistent peer-review framework equivalent to journals
+
+Position articulated within Monash Business School:
+
+- Software should be treated as a research output
+- It should count alongside traditional outputs in promotion cases
+
+## The Monash Intervention
+
+Scope:
+
+Implemented within Monash Business School (faculty-level change)
+
+Process:
+
+- Sustained advocacy over several years
+- Change in faculty leadership created opportunity
+- A concise, one-page policy drafted
+- Reviewed and approved through Faculty Research Committee
+
+*Key point*:
+
+**Change did not require university-wide reform.
+It began at the faculty level.**
+
+## Policy Design and Evaluation Mechanism [(1/2)]{.smallest}
+
+:::: {.columns}
+::: {.column}
+
+**Core principle:**
+
+*Research software is recognised as a research output for promotion and integrated into the existing points-based evaluation framework.*
+
+**Structural design:**
+
+- Software assessed separately from papers
+- Allocated 0–3 points, aligned with journal scoring bands
+- Evaluated through a formal peer-review process embedded in faculty HR governance
+
+:::
+::: {.column .fragment}
+
+**Governance and review process:**
+
+- Committee convened by the Deputy Dean (Research)
+- Rotating discipline experts (internal and external)
+- At least one anonymous external review per submission
+- Two external reviews required where no prior peer review exists
+- Conflict-of-interest rules applied
+- Brief written feedback provided
+
+:::
+::::
+
+## Policy Design and Evaluation Mechanism [(2/2)]{.smallest}
+
+:::: {.columns}
+::: {.column}
+::: {.smaller}
+
+**Submission requirements and quality standards:**
+
+Applicants must provide:
+
+- Version-controlled source code (e.g. GitHub)
+- Evidence of documentation and reproducibility
+- Clear description of individual contribution
+- Evidence of user impact or uptake
+- Evidence of new features, improvements, or sustained maintenance (for ongoing projects)
+
+:::
+:::
+::: {.column .fragment}
+::: {.smaller}
+
+**Assessment standards parallel journal expectations:**
+
+- Method documentation at publication level
+- Preference for prototype tools or research software infrastructure over analysis code
+- Versioning and citable releases
+- Mechanism for bug reporting and contributions
+- Clear maintainership and governance model
+
+:::
+
+This model embeds software recognition within formal quality control and HR mechanisms, rather than treating it as symbolic inclusion.
+
+:::
+::::
+
+## Structural Shift in Evaluation
+
+:::: {.columns}
+::: {.column}
+::: {.smaller}
+
+**Significance:**
+
+*The shift is not symbolic recognition, but movement from discretionary consideration to institutionalised category with procedural legitimacy.*
+
+**System-level effect:**
+
+- Policies of this kind shape the long-term composition of a faculty or school.
+- By formally recognising software, the institution signals what kinds of scholarly labour are valued.
+- Over time, this influences hiring, retention, and promotion trajectories.
+- The policy may attract and retain academics whose profiles combine methodological innovation, engineering practice, and community stewardship.
+
+:::
+:::
+::: {.column}
+::: {.smaller}
+
+- Incentive reform therefore has selection effects: surfacing software as legitimate scholarship contributes to shaping the type of academic workforce an institution cultivates.
+- Faculty-wide structural recognition rather than ad hoc approval
+- Moves from individual advocacy to institutional policy
+- Aligns incentives with actual research practice in computational fields
+
+::: {.fragment}
+
+**Potential benefits:**
+
+- Incentivises high-quality research software
+- Supports stable career progression
+- Signals cultural shift in evaluation norms
+- May attract researchers with strong software credentials
+
+:::
+:::
+:::
+::::
+
+## Potential Open Questions
+
+:::: {.columns}
+::: {.column}
+::: {.smaller}
+
+**1. Heterogeneity of Software Contributions**
+
+- Some submissions represent short, sharp methodological innovations that shift practice quickly within a field.
+- Others reflect sustained governance and long-term maintenance of large, widely used software frameworks.
+- Time horizon
+- Visibility of impact
+- Type of labour (innovation vs stewardship)
+- Community dependence
+
+:::
+:::
+::: {.column}
+::: {.smaller}
+
+**2. Commensurability Challenge**
+
+A core policy question:
+
+- How do you make equivalent — within a single promotion points system — very different types of software effort?
+- Is a breakthrough prototype equivalent to a decade of responsible maintenance of critical infrastructure?
+- Should impact be measured through novelty, scale of adoption, longevity, or ecosystem stability?
+
+**3. Incentive Effects**
+
+- Does the framework unintentionally favour visible innovation over invisible maintenance?
+- How do we ensure governance and stewardship work is not undervalued relative to new feature development?
+
+:::
+:::
+::::
+
+## Positioning Within OECD Policy Dimensions
+
+:::: {.columns}
+::: {.column}
+::: {.smaller}
+
+This case study sits primarily within the Human Resources and Motivation dimension of this policy workshop's framework.
+
+**Human Resources and Motivation**
+
+- Aligns academic promotion incentives with software production
+- Integrates evaluation into existing HR promotion mechanisms
+- Uses peer review to support transparency, fairness, and staff motivation
+
+**Standards, Assessment, Certification, and Alignment**
+
+- Establishes a formal faculty-level governance and review structure
+- Applies quality standards comparable to journal evaluation
+
+:::
+:::
+::: {.column}
+::: {.smaller}
+
+- Requires documentation, version control, and evidence of impact
+
+::: {.fragment}
+
+This is not primarily an infrastructure intervention; it is an *incentive-structure intervention*.
+
+From the Monash case:
+
+1. Faculty-level change is feasible.
+2. Policy can be concise and targeted.
+3. Peer review is essential for legitimacy.
+4. Alignment with existing evaluation systems reduces friction.
+5. Cultural change often precedes formal policy change.
+
+:::
+:::
+:::
+::::
+
+## {background-image="images/berlin_stickers1.jpg" background-size="30%" background-position="90% 10%" background-repeat="no-repeat"}
+
+:::: {.columns}
+::: {.column width=60%}
+
+**Key question for institutions and policymakers**
+
+::: {.center-middle .larger}
+
+What behaviours do current promotion systems incentivise — and are those behaviours aligned with the realities of computational research?
+
+![On a wall in Berlin](images/berlin_stickers2.jpg){style="width:15%; position:absolute; top:50%; left:45%;" }
+:::
+:::
+::::
+
+## Acknowledgements
+
+Slides made in [R](https://cran.r-project.org) using  [Quarto](https://quarto.org/).  
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
